@@ -13,9 +13,9 @@
 
 | Hike    | Commute   | Distance(km) | Elevation(m)|
 |---------|-----------|---------|-------------|
-| Jeoffrey Lakes | 3hr | 10 | 370 |
-| Chief | 1hr 10m | 11 | 600 | 
-| Garibaldi Lake | 1hr 40m | 18 | 820 | 
-| Black Tusk | 1hr 40m | 29 | 1740 | 
-| Panorama Ridge | 1hr 40m | 30 | 1520 | 
-| Mount Robson | 8hr | 50 | 1650 | 
+| [Jeoffrey Lakes]((https://www.vancouvertrails.com/trails/joffre-lakes/)) | 2:50 | 10 | 370 |
+| [Chief]((https://www.vancouvertrails.com/trails/stawamus-chief/) ) | 1:10 | 11 | 600 | 
+| [Garibaldi Lake](https://www.vancouvertrails.com/trails/garibaldi-lake/) | 1:40 | 18 | 820 | 
+| [Black Tusk](https://www.vancouvertrails.com/trails/black-tusk/) | 1:40 | 29 | 1740 | 
+| [Panorama Ridge](https://www.vancouvertrails.com/trails/panorama-ridge/) | 1:40 | 30 | 1520 | 
+| [Mount Robson](https://bcparks.ca/parks/mt-robson/berg-lake-trail/) | 8:00 | 50 | 1650 | 
