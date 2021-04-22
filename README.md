@@ -11,7 +11,7 @@
 | 7 | [Jeoffrey Lakes](https://www.vancouvertrails.com/trails/joffre-lakes/)                     | 2:50    | 10            | 370           |
 | 8 | [Mount Robson](https://bcparks.ca/parks/mt-robson/berg-lake-trail/)                        | 8:00    | 50            | 1650          | 
 
-Note: 
+## Note: 
 - `*` these distances are in one-way trip distances. Rest are round trips
 - Tantative plan is to do hikes 1-4 before May 17th, 2021
 - Hikes 5-8 are best left for late May or early June. Even then it might still be snowy up there
